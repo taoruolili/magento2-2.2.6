@@ -1,0 +1,1 @@
+var mageplazaSearchProducts = [{"value":"yeezy 380 yellow","c":["3"],"d":"","p":23,"i":"http:\/\/magento2-6.ccc\/pub\/media\/catalog\/product\\cache\\08a0b36ebc62d1aabd4a717a82ad731c\\\/\/2\/_\/2.jpg","u":"yeezy-380-yellow.html"}]
